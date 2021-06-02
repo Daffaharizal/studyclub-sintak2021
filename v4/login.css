@@ -14,7 +14,9 @@ h3 {
 a {
     color: white;
     column-width: 90%;
+    /* text-dec biasanya digunakan untuk menghilangkan garis bawah pada sebuah link */
     text-decoration: none;
+    letter-spacing: 2px;
 }
 
 button {
