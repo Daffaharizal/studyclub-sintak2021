@@ -3,8 +3,16 @@
     width: 25%;
 }
 
-body {
+label {
+    font-weight: bold;
+}
+
+h3 {
     text-align: center;
+}
+
+button {
+    width: 100%;
 }
 
 p {
