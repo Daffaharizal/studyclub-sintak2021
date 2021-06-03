@@ -26,6 +26,11 @@ nav {
     color: black;
 }
 
+.container-fluid {
+    background-color: rgb(151, 151, 151);
+}
+
+
 a {
     color: white;
     column-width: 90%;
