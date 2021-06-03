@@ -3,7 +3,9 @@
     width: 25%;
 }
 
-body {}
+body {
+    background-color: rgb(192, 157, 61);
+}
 
 img {
     width: 180px;
@@ -16,6 +18,12 @@ label {
 
 h3 {
     text-align: center;
+    font-size: 34px;
+}
+
+nav {
+    font-weight: bold;
+    color: black;
 }
 
 a {
@@ -23,7 +31,6 @@ a {
     column-width: 90%;
     /* text-dec biasanya digunakan untuk menghilangkan garis bawah pada sebuah link */
     text-decoration: none;
-    letter-spacing: 1px;
 }
 
 button {
