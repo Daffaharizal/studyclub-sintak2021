@@ -15,7 +15,7 @@ body {
 }
 
 .header {
-    background-color: lightslategray;
+    background-color: rgb(165, 177, 189);
     height: 70px;
 }
 
@@ -26,7 +26,7 @@ body {
 
 .header-list ul li {
     list-style: none;
-    padding: ;
+    padding: 25px 44px;
 }
 
 .header-logo {
