@@ -1,0 +1,76 @@
+    * {
+        margin: 0;
+        padding: 0;
+        outline: 0;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .header {
+        background-color: bisque;
+        height: 90px;
+    }
+
+    .header-logo {
+        float: left;
+        padding: 20px 40px;
+        font-weight: bold;
+        font-size: 30px;
+        padding-right: 60px;
+    }
+
+    .header-list ul li {
+        float: left;
+        list-style: none;
+        padding: 30px 20px;
+    }
+
+    ul {
+        list-style: none;
+    }
+
+
+
+    .main {
+        background-color: lightblue;
+        height: 1000px;
+    }
+
+    .copy-container h2 {
+        font-size: 60px;
+    }
+
+    span {
+        color: red;
+    }
+
+    .copy-container p {
+        font-size: 20px;
+        color: blue;
+    }
+
+    .footer {
+        background-color: lightgreen;
+        height: 200px;
+    }
+
+    .footer-logo {
+        float: left;
+        padding: 40px;
+    }
+
+    .footer-list {
+        float: right;
+    }
+
+    .footer-list ul li {
+        padding: 10px;
+        padding-right: 40px;
+    }
+
+    .contents p {
+        font-size: 15px;
+    }
+
+    .contents-item img {
+        width: 100px;
+    }
