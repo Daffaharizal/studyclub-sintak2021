@@ -67,6 +67,11 @@
         padding-right: 40px;
     }
 
+    .contents {
+        align-items: center;
+        text-align: center;
+    }
+
     .contents p {
         font-size: 15px;
     }
