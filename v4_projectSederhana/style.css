@@ -67,9 +67,8 @@
         padding-right: 40px;
     }
 
-    .contents {
-        align-items: center;
-        text-align: center;
+    div.copy-container h2 {
+        text-align: left;
     }
 
     .contents p {
@@ -78,4 +77,9 @@
 
     .contents-item img {
         width: 100px;
+    }
+
+    div.header-list img {
+        width: 44px;
+        padding-top: 0px;
     }
