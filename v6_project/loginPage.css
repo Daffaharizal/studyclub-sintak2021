@@ -8,6 +8,8 @@
     margin-top: 10%;
     width: 25%;
     height: 700px;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.4);
+    padding: 30px;
 }
 
 body {
@@ -17,13 +19,16 @@ body {
 
 .header {
     background-color: rgb(192, 157, 61);
-    height: 70px;
+    height: 90px;
+    border-bottom: 2px solid black;
 }
 
 .header-logo {
     font-size: 25px;
-    padding: 20px;
+    padding: 29px;
 }
+
+
 
 .header-list ul li {
     list-style: none;
@@ -35,6 +40,8 @@ body {
     float: right;
     padding-right: 35px;
 }
+
+
 
 div ul li {
     float: left;
@@ -77,6 +84,10 @@ button {
     width: 100%;
 }
 
+button a {
+    width: 100%;
+}
+
 
 
 p {
@@ -113,7 +124,7 @@ p {
 .container form label button {
     background-color: rgb(36, 151, 228);
     color: white;
-    width: 355px;
+    width: 322px;
 }
 
 
