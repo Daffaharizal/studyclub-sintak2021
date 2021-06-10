@@ -7,6 +7,7 @@
 .container {
     margin-top: 10%;
     width: 25%;
+    height: 700px;
 }
 
 body {
@@ -15,7 +16,7 @@ body {
 }
 
 .header {
-    background-color: rgb(165, 177, 189);
+    background-color: rgb(192, 157, 61);
     height: 70px;
 }
 
