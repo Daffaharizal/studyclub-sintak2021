@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    margin-top: 10%;
+    width: 25%;
+    height: 700px;
+}
+
+body {
+    background-color: rgb(192, 157, 61);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    background-color: rgb(192, 157, 61);
+    height: 70px;
+}
+
+.header-logo {
+    font-size: 25px;
+    padding: 20px;
+}
+
+.header-list ul li {
+    list-style: none;
+    padding: 25px;
+    padding-left: 5px;
+}
+
+.header-logo {
+    float: right;
+    padding-right: 35px;
+}
+
+div ul li {
+    float: left;
+    padding: 20px 40px;
+}
+
+img {
+    width: 180px;
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+}
+
+h3 {
+    text-align: center;
+    font-size: 34px;
+}
+
+nav {
+    font-weight: bold;
+    color: black;
+}
+
+.container-fluid {
+    background-color: rgb(151, 151, 151);
+    height: 40px;
+}
+
+
+a {
+    color: white;
+    column-width: 90%;
+    /* text-dec biasanya digunakan untuk menghilangkan garis bawah pada sebuah link */
+    text-decoration: none;
+}
+
+button {
+    width: 100%;
+}
+
+p {
+    color: skyblue;
+}
+
+.footer {
+    background-color: rgb(51, 46, 46);
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.footer-list {
+    float: center;
+}
+
+.header-list ul li button {
+    background-color: rgb(36, 151, 228);
+    color: white;
+}
+
+.container form label button {
+    background-color: rgb(36, 151, 228);
+    color: white;
+    width: 355px;
+}
+
+
+ul {
+    list-style: none;
+}
+
+.container-footer {
+    width: 3000px;
+}
