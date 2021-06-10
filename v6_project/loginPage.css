@@ -78,12 +78,15 @@ button {
 }
 
 p {
-    color: skyblue;
+    color: rgb(115, 168, 189);
 }
+
+
 
 .footer {
     background-color: rgb(51, 46, 46);
     color: white;
+    height: 300px;
     text-align: center;
     padding: 30px;
 }
@@ -95,6 +98,14 @@ p {
 .header-list ul li button {
     background-color: rgb(36, 151, 228);
     color: white;
+}
+
+.footer .footer-list p span {
+    color: skyblue;
+}
+
+.footer.footer-list p img {
+    width: 10px;
 }
 
 .container form label button {
@@ -110,4 +121,8 @@ ul {
 
 .container-footer {
     width: 3000px;
+}
+
+.footer .footer-list p {
+    font-size: 15px;
 }
