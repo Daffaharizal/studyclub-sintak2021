@@ -12,7 +12,7 @@
 
 body {
     background-color: rgb(192, 157, 61);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: helvetica;
 }
 
 .header {
@@ -77,6 +77,8 @@ button {
     width: 100%;
 }
 
+
+
 p {
     color: rgb(115, 168, 189);
 }
@@ -105,7 +107,7 @@ p {
 }
 
 .footer.footer-list p img {
-    width: 10px;
+    height: 2px;
 }
 
 .container form label button {
