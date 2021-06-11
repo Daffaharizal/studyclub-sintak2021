@@ -80,6 +80,10 @@ a {
     text-decoration: none;
 }
 
+.login {
+    width: 100%;
+}
+
 button {
     width: 100%;
 }
@@ -139,6 +143,7 @@ ul {
 .footer .footer-list p {
     font-size: 15px;
     color: rgb(109, 109, 109);
+    padding-bottom: 30px;
 }
 
 .hmj1 {
