@@ -114,7 +114,7 @@ p {
 }
 
 .footer .footer-list p span {
-    color: skyblue;
+    color: rgb(194, 194, 194);
 }
 
 .footer.footer-list p img {
@@ -138,4 +138,9 @@ ul {
 
 .footer .footer-list p {
     font-size: 15px;
+    color: rgb(109, 109, 109);
+}
+
+.hmj1 {
+    color: rgb(173, 30, 30);
 }
